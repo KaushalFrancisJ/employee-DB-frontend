@@ -1,0 +1,49 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "kaushal",
+      "position": "Developer",
+      "organization": "4i apps solutions.",
+      "address": [
+        {
+          "id": 1,
+          "address": "ABC Apartment, def St, GHI avenue",
+          "location": "XYZ city",
+          "pin": 123,
+          "contactNo": 1235430987
+        }
+      ]
+    },
+    {
+      "name": "kaushal",
+      "position": "architect",
+      "organization": "4i apps",
+      "address": [
+        {
+          "id": 100,
+          "address": "Plot no 474",
+          "location": "1234",
+          "pin": 1234,
+          "contactNo": 41
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "HEhehe",
+      "position": "12345",
+      "organization": "54321",
+      "address": [
+        {
+          "id": 100,
+          "address": "A for Apple",
+          "location": "Chennai",
+          "pin": 123,
+          "contactNo": "1111111111"
+        }
+      ],
+      "id": 3
+    }
+  ]
+}

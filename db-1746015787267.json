@@ -1,0 +1,19 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "kaushal",
+      "position": "Developer",
+      "organization": "4i apps solutions.",
+      "address": [
+        {
+          "id": 1,
+          "address": "ABC Apartment, def St, GHI avenue",
+          "location": "XYZ city",
+          "pin": 123,
+          "contactNo": 1235430987
+        }
+      ]
+    }
+  ]
+}
